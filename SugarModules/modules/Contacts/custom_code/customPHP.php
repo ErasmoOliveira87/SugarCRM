@@ -1,0 +1,1 @@
+<?phpclass customPHP{	function FunctionName1(&$bean, $event, $arguments){			}	function FunctionName2(&$bean, $event, $arguments){			}	}?>
